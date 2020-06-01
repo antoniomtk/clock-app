@@ -1,7 +1,7 @@
-This is a simple Drum App made in Vannila JS. 
+This is a simple Clock App made in Vannila JS. 
 
-This is part of the JavaScript30 Tutorial. Sound is played when user presses the predefined key on the keyboard. Some additional styling is done to the original project. 
+Clock is analog style clock.
 
-You can check it out working version here: [DEMO](https://antoniomtk.github.io/drum-app/)
+You can check it out working version here: [DEMO](https://antoniomtk.github.io/clock-app/)
 
-![alt text](https://github.com/antoniomtk/drumm-app/blob/master/img/screenshot.jpg "Drum App")
+![alt text](https://github.com/antoniomtk/clock-app/blob/master/img/screenshot.jpg "Clock App")
